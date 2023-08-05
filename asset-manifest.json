@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/did-wallet-client/static/css/main.12da2675.chunk.css",
-    "main.js": "/did-wallet-client/static/js/main.be0f1736.chunk.js",
-    "main.js.map": "/did-wallet-client/static/js/main.be0f1736.chunk.js.map",
-    "runtime-main.js": "/did-wallet-client/static/js/runtime-main.4a67c119.js",
-    "runtime-main.js.map": "/did-wallet-client/static/js/runtime-main.4a67c119.js.map",
-    "static/js/2.18c1e9a1.chunk.js": "/did-wallet-client/static/js/2.18c1e9a1.chunk.js",
-    "static/js/2.18c1e9a1.chunk.js.map": "/did-wallet-client/static/js/2.18c1e9a1.chunk.js.map",
-    "static/js/3.390d3fd0.chunk.js": "/did-wallet-client/static/js/3.390d3fd0.chunk.js",
-    "static/js/3.390d3fd0.chunk.js.map": "/did-wallet-client/static/js/3.390d3fd0.chunk.js.map",
-    "index.html": "/did-wallet-client/index.html",
-    "precache-manifest.5333971850534a63f53348b52ffa79e2.js": "/did-wallet-client/precache-manifest.5333971850534a63f53348b52ffa79e2.js",
-    "service-worker.js": "/did-wallet-client/service-worker.js",
-    "static/css/main.12da2675.chunk.css.map": "/did-wallet-client/static/css/main.12da2675.chunk.css.map",
-    "static/js/2.18c1e9a1.chunk.js.LICENSE.txt": "/did-wallet-client/static/js/2.18c1e9a1.chunk.js.LICENSE.txt",
-    "static/js/3.390d3fd0.chunk.js.LICENSE.txt": "/did-wallet-client/static/js/3.390d3fd0.chunk.js.LICENSE.txt",
-    "static/media/did.mp3": "/did-wallet-client/static/media/did.b4492867.mp3",
-    "static/media/maoi.jpeg": "/did-wallet-client/static/media/maoi.52dbaa8d.jpeg"
+    "main.css": "/did-wallet-client/public/index.html/static/css/main.12da2675.chunk.css",
+    "main.js": "/did-wallet-client/public/index.html/static/js/main.fbc3ce04.chunk.js",
+    "main.js.map": "/did-wallet-client/public/index.html/static/js/main.fbc3ce04.chunk.js.map",
+    "runtime-main.js": "/did-wallet-client/public/index.html/static/js/runtime-main.ae072e2a.js",
+    "runtime-main.js.map": "/did-wallet-client/public/index.html/static/js/runtime-main.ae072e2a.js.map",
+    "static/js/2.18c1e9a1.chunk.js": "/did-wallet-client/public/index.html/static/js/2.18c1e9a1.chunk.js",
+    "static/js/2.18c1e9a1.chunk.js.map": "/did-wallet-client/public/index.html/static/js/2.18c1e9a1.chunk.js.map",
+    "static/js/3.390d3fd0.chunk.js": "/did-wallet-client/public/index.html/static/js/3.390d3fd0.chunk.js",
+    "static/js/3.390d3fd0.chunk.js.map": "/did-wallet-client/public/index.html/static/js/3.390d3fd0.chunk.js.map",
+    "index.html": "/did-wallet-client/public/index.html/index.html",
+    "precache-manifest.07d2ae4d1ef87fbc84aefde74673ad63.js": "/did-wallet-client/public/index.html/precache-manifest.07d2ae4d1ef87fbc84aefde74673ad63.js",
+    "service-worker.js": "/did-wallet-client/public/index.html/service-worker.js",
+    "static/css/main.12da2675.chunk.css.map": "/did-wallet-client/public/index.html/static/css/main.12da2675.chunk.css.map",
+    "static/js/2.18c1e9a1.chunk.js.LICENSE.txt": "/did-wallet-client/public/index.html/static/js/2.18c1e9a1.chunk.js.LICENSE.txt",
+    "static/js/3.390d3fd0.chunk.js.LICENSE.txt": "/did-wallet-client/public/index.html/static/js/3.390d3fd0.chunk.js.LICENSE.txt",
+    "static/media/did.mp3": "/did-wallet-client/public/index.html/static/media/did.b4492867.mp3",
+    "static/media/maoi.jpeg": "/did-wallet-client/public/index.html/static/media/maoi.52dbaa8d.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4a67c119.js",
+    "static/js/runtime-main.ae072e2a.js",
     "static/js/2.18c1e9a1.chunk.js",
     "static/css/main.12da2675.chunk.css",
-    "static/js/main.be0f1736.chunk.js"
+    "static/js/main.fbc3ce04.chunk.js"
   ]
 }
