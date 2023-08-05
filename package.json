@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.0.0",
-  "homepage": "https://aus36.github.io/did-wallet-client",
+  "homepage": "https://aus36.github.io/did-wallet-client/public/index.html",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -38,5 +38,7 @@
   "proxy": "http://localhost:4000",
   "devDependencies": {
     "gh-pages": "^5.0.0"
-  }
+  },
+  "engines": {
+    "node": "16.x"}
 }
